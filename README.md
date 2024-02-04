@@ -25,3 +25,7 @@ The method described in this book for training and developing your own small-but
 - [Link to the early access version](http://mng.bz/orYv) at Manning
 - ISBN 9781633437166
 - Publication in Early 2025 (estimated)
+
+# References
+
+https://github.com/stas00/ml-engineering?tab=readme-ov-file
